@@ -12,7 +12,7 @@ A simple React helmes app that displays user information.
 
 ## Assumptions
 
-- The ui will only store and update records in the table.
+- The UI will only store and update records in the table.
 - In order to update the record, the name should be same, the sector can change. If the name is      different, then new record will be entered in the database.
 
 ## .env.local
